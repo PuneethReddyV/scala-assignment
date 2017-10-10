@@ -1,5 +1,5 @@
-# scala-assignment
-Background
+# Scala-assignment
+Ploblem Statement
 1.	Channels are a mechanism for broadcasting messages.
 2.	Messages can be sent a variety of ways, including via SMS.
 3.	People follow one or more channels, and receive messages when channels they follow broadcast a message.
